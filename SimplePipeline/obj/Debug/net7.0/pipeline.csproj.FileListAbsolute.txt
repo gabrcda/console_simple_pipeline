@@ -1,0 +1,14 @@
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\bin\Debug\net7.0\pipeline.exe
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\bin\Debug\net7.0\pipeline.deps.json
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\bin\Debug\net7.0\pipeline.runtimeconfig.json
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\bin\Debug\net7.0\pipeline.dll
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\bin\Debug\net7.0\pipeline.pdb
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.AssemblyInfoInputs.cache
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.AssemblyInfo.cs
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.dll
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\refint\pipeline.dll
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.pdb
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\pipeline.genruntimeconfig.cache
+C:\Users\Windows\Pictures\pipeline\SimplePipeline\obj\Debug\net7.0\ref\pipeline.dll

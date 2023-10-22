@@ -1,0 +1,4 @@
+C:\Users\Windows\Pictures\pipeline\obj\Debug\net7.0\pipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Pictures\pipeline\obj\Debug\net7.0\pipeline.AssemblyInfoInputs.cache
+C:\Users\Windows\Pictures\pipeline\obj\Debug\net7.0\pipeline.AssemblyInfo.cs
+C:\Users\Windows\Pictures\pipeline\obj\Debug\net7.0\pipeline.csproj.CoreCompileInputs.cache
